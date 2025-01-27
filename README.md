@@ -7,7 +7,6 @@
 </h1>
 
 <h3 align="center">A Full Stack Web Developer<img height="22" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
-<div>
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 <br /><br />
     
@@ -29,7 +28,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
 </div>
-</div>
 <br /><br /><br />
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -38,10 +36,24 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,prisma,rust,figma,cpp,java" /><br>
 </div>
 
-<br/>
+<br/><br /><br />
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2>My GitHub Stats</h2>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/harshthakkr">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshthakkr&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<a href="https://github.com/harshthakkr/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshthakkr&theme=high-contrast" alt="Harsh Thakkar's GitHub Activity Graph" />
+</a>
+<div align="center">
   <picture>
     <source
     media="(prefers-color-scheme: dark)"
