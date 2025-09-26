@@ -10,13 +10,13 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 <br /><br />
     
-👨🏻‍💻 I'm currently building **Tripster**
+👨🏻‍💻 I'm currently building **Gaming Hub**
  
-🌱 I’m currently learning **Docker, Redis and Rust**
+🌱 I’m currently exploring **Web3, Rust and Solana**
     
-✨ Part time gamer, Full time developer
+🎮 Part time gamer, Full time developer
 
-📍 Location: **India** 
+📍 Location: **Ahmedabad, India**
 <div> 
     <a href="https://x.com/harshthkkr" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -29,7 +29,7 @@
     </a>
 </div>
 <br /><br /><br />
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,react,javascript,typescript,tailwind,html,css,scss,nodejs,express,mongodb,postgresql,mysql,prisma,jest,figma,rust,cpp,java,github,git&perline=7" />
@@ -38,7 +38,7 @@
 
 <br/><br /><br />
 <div align="center">
-  <h2>My GitHub Stats</h2>
+  <h2>GitHub Stats</h2>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
@@ -51,8 +51,9 @@
 </div>
 
 <a href="https://github.com/harshthakkr/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshthakkr&theme=high-contrast" alt="Harsh Thakkar's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshthakkr&theme=high-contrast" alt="GitHub Activity Graph" />
 </a>
+
 <div align="center">
   <picture>
     <source
@@ -70,4 +71,3 @@
   </picture>
   <br/><br/><br/>
 </div>
-
