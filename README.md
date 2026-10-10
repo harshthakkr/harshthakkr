@@ -8,7 +8,7 @@
 
 <p align="right">
   <sub>
-    <a href="https://github.com/openmrs/openmrs-esm-core/pulls?q=is%3Apr+author%3Aharshthakkr">openmrs prs ↗</a>&nbsp;&nbsp;
+    <a href="https://medium.com/@harshthkkr/gsoc-2025-with-openmrs-improved-implementer-tools-284518951560">gsoc work ↗</a>&nbsp;&nbsp;
     <a href="https://gamehub-harsh.vercel.app/">game//hub ↗</a>&nbsp;&nbsp;
     <a href="https://github.com/harshthakkr/game-hub">game//hub source ↗</a>&nbsp;&nbsp;
     <a href="https://github.com/harshthakkr/payments-app">payments-app ↗</a>
